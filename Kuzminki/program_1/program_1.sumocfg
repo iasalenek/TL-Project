@@ -1,0 +1,6 @@
+<configuration>
+  <input>
+    <net-file value="program_1.net.xml" />
+    <route-files value="program_1.rou.xml, program_1.vehicles.rou.xml" />
+  </input>
+</configuration>

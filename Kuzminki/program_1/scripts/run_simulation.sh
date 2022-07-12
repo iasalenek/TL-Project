@@ -1,0 +1,1 @@
+sumo-gui -c Kuzminki/program_1/program_1.sumocfg
